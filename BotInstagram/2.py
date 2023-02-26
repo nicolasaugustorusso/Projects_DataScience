@@ -63,5 +63,5 @@ class InstagramBot:
 
 
 
-lillrussoBot = InstagramBot('11993753891', 'MeuNomeEFoda12')
+lillrussoBot = InstagramBot('numero_telefone', 'senha_instagram')
 lillrussoBot.login()
